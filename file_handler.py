@@ -1,0 +1,7 @@
+f= open("C:\\Users\\srika\\Downloads\\New Text Document.txt","r")
+# f.readline()
+# # print(f)
+# print("--------------")
+# print(f.readlines())
+print(type(f))
+f.close()
